@@ -16,5 +16,3 @@ end
 assignin('base','A',A)
 d=eig(A);
 i=imag(d); j=real(d); plot(j,i,'o')
-%djgdjnjfngjvfd
-uyg
